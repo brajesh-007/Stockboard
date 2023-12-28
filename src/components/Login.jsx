@@ -41,7 +41,8 @@ const Login = () => {
     <div className="container">
       
       <form className='form'>
-      <h1 id="header">Login</h1>
+        <img id="header" src="https://w7.pngwing.com/pngs/448/200/png-transparent-bull-market-bull-stock-market-stock-trading-broker-share-price-rise-profit-gain-thumbnail.png" alt="" height={50} width={50} />
+        <h1 id="header">Stock Market</h1>
         <div  >
            
           <input
